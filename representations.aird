@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:sysadl="http://org.sysadl" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_ItrYUHb3EeyOAZ6Ig40iAg" selectedViews="_QrzQAHb4EeyOAZ6Ig40iAg" version="14.5.1.202106111100">
+    <semanticResources>smartcar.sysadl</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_QrzQAHb4EeyOAZ6Ig40iAg">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_QsfzkHb4EeyOAZ6Ig40iAg" name="Requirements Diagram" repPath="#_QsEVwHb4EeyOAZ6Ig40iAg" changeId="2753344f-b5ee-438d-92c2-8eeb738c3917">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']"/>
+        <target xmi:type="sysadl:Model" href="smartcar.sysadl#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_QsEVwHb4EeyOAZ6Ig40iAg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Qs8fgHb4EeyOAZ6Ig40iAg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_Qs9GkHb4EeyOAZ6Ig40iAg" type="Sirius" element="_QsEVwHb4EeyOAZ6Ig40iAg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_QxF_sHb4EeyOAZ6Ig40iAg" type="2002" element="_QtUS8Hb4EeyOAZ6Ig40iAg">
+          <children xmi:type="notation:Node" xmi:id="_QxOikHb4EeyOAZ6Ig40iAg" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_QxQXwHb4EeyOAZ6Ig40iAg" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_QxQXwXb4EeyOAZ6Ig40iAg"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_QxQ-0Hb4EeyOAZ6Ig40iAg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_QxF_sXb4EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QxF_snb4EeyOAZ6Ig40iAg" width="688" height="308"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_Qs9GkXb4EeyOAZ6Ig40iAg"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_QwxPkHb4EeyOAZ6Ig40iAg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_Qwx2oHb4EeyOAZ6Ig40iAg"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_QtUS8Hb4EeyOAZ6Ig40iAg" name="req SysADLModel">
+      <target xmi:type="sysadl:Model" href="smartcar.sysadl#/"/>
+      <semanticElements xmi:type="sysadl:Model" href="smartcar.sysadl#/"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_QwgJ0Hb4EeyOAZ6Ig40iAg" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_QsRxIHb4EeyOAZ6Ig40iAg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer"/>
+    <target xmi:type="sysadl:Model" href="smartcar.sysadl#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
