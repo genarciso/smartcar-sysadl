@@ -4,7 +4,7 @@
     <semanticResources>smartcar.sysadl</semanticResources>
     <ownedViews xmi:type="viewpoint:DView" uid="_QrzQAHb4EeyOAZ6Ig40iAg">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_QsfzkHb4EeyOAZ6Ig40iAg" name="Requirements Diagram" repPath="#_QsEVwHb4EeyOAZ6Ig40iAg" changeId="2753344f-b5ee-438d-92c2-8eeb738c3917">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_QsfzkHb4EeyOAZ6Ig40iAg" name="Requirements Diagram" repPath="#_QsEVwHb4EeyOAZ6Ig40iAg" changeId="fdbfa42a-2599-494a-abf6-dd261e34cfc7">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']"/>
         <target xmi:type="sysadl:Model" href="smartcar.sysadl#/"/>
       </ownedRepresentationDescriptors>
@@ -16,11 +16,198 @@
         <children xmi:type="notation:Node" xmi:id="_QxF_sHb4EeyOAZ6Ig40iAg" type="2002" element="_QtUS8Hb4EeyOAZ6Ig40iAg">
           <children xmi:type="notation:Node" xmi:id="_QxOikHb4EeyOAZ6Ig40iAg" type="5006"/>
           <children xmi:type="notation:Node" xmi:id="_QxQXwHb4EeyOAZ6Ig40iAg" type="7001">
+            <children xmi:type="notation:Node" xmi:id="_pyWoQHb5EeyOAZ6Ig40iAg" type="3009" element="_pxj-EHb5EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_pyXPUHb5EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_pyr_cHb5EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_pysmgHb5EeyOAZ6Ig40iAg" type="3010" element="_pxuWIHb5EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_pysmgXb5EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_pysmgnb5EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_pytNkHb5EeyOAZ6Ig40iAg" type="3010" element="_px7xgHb5EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_pytNkXb5EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_pytNknb5EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_pyr_cXb5EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_pyr_cnb5EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_pyWoQXb5EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pyWoQnb5EeyOAZ6Ig40iAg" x="205" y="9" width="273" height="128"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_mOUZcHb8EeyOAZ6Ig40iAg" type="3009" element="_mOKocHb8EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_mOVAgHb8EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_mOVAgXb8EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_mOVnkHb8EeyOAZ6Ig40iAg" type="3010" element="_mOMdoHb8EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_mOVnkXb8EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_mOVnknb8EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_mOWOoHb8EeyOAZ6Ig40iAg" type="3010" element="_mOOS0Hb8EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_mOWOoXb8EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_mOWOonb8EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_mOVAgnb8EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_mOVAg3b8EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_mOUZcXb8EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mOUZcnb8EeyOAZ6Ig40iAg" x="205" y="139" width="203" height="103"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_rYydwHb9EeyOAZ6Ig40iAg" type="3009" element="_rYs-Mnb9EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_rYydw3b9EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_rYydxHb9EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_rYzE0Hb9EeyOAZ6Ig40iAg" type="3010" element="_rYtlQXb9EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_rYzE0Xb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_rYzE0nb9EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_rYzE03b9EeyOAZ6Ig40iAg" type="3010" element="_rYuMUXb9EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_rYzE1Hb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_rYzE1Xb9EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_rYydxXb9EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_rYydxnb9EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_rYydwXb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rYydwnb9EeyOAZ6Ig40iAg" x="490" y="139" width="213" height="103"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_0Kx30Hb9EeyOAZ6Ig40iAg" type="3009" element="_0KrxNHb9EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_0Kx303b9EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_0Kx31Hb9EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_0Kye4Hb9EeyOAZ6Ig40iAg" type="3010" element="_0KsYQXb9EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_0Kye4Xb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_0Kye4nb9EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_0Kye43b9EeyOAZ6Ig40iAg" type="3010" element="_0Ks_UXb9EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_0Kye5Hb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_0Kye5Xb9EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_0Kx31Xb9EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_0Kx31nb9EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_0Kx30Xb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Kx30nb9EeyOAZ6Ig40iAg" x="490" y="9" width="213" height="108"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_7ULjcHb9EeyOAZ6Ig40iAg" type="3009" element="_7UDnpHb9EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_7UMKgHb9EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_7UMKgXb9EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_7UMKhHb9EeyOAZ6Ig40iAg" type="3010" element="_7UE1wHb9EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_7UMKhXb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_7UMKhnb9EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_7UMxkHb9EeyOAZ6Ig40iAg" type="3010" element="_7UFc0Xb9EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_7UMxkXb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_7UMxknb9EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_7UMKgnb9EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_7UMKg3b9EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_7ULjcXb9EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ULjcnb9EeyOAZ6Ig40iAg" x="710" y="139" width="216" height="103"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_E5mlkHb-EeyOAZ6Ig40iAg" type="3009" element="_E5WG4nb-EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_E5mlk3b-EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_E5nMoHb-EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_E5nMo3b-EeyOAZ6Ig40iAg" type="3010" element="_E5XVAHb-EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_E5nMpHb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_E5nMpXb-EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_E5nMpnb-EeyOAZ6Ig40iAg" type="3010" element="_E5YjIHb-EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_E5nMp3b-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_E5nMqHb-EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_E5nMoXb-EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_E5nMonb-EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_E5mlkXb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E5mlknb-EeyOAZ6Ig40iAg" x="710" y="9" width="216" height="108"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_q1jYYHb-EeyOAZ6Ig40iAg" type="3009" element="_q1dRyHb-EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_q1jYY3b-EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_q1jYZHb-EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_q1j_cHb-EeyOAZ6Ig40iAg" type="3010" element="_q1d40nb-EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_q1j_cXb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_q1j_cnb-EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_q1j_c3b-EeyOAZ6Ig40iAg" type="3010" element="_q1ef4Xb-EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_q1j_dHb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_q1j_dXb-EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_q1jYZXb-EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_q1jYZnb-EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_q1jYYXb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q1jYYnb-EeyOAZ6Ig40iAg" x="205" y="254" width="273" height="103"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_7qRSwHb-EeyOAZ6Ig40iAg" type="3009" element="_7qG6s3b-EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_7qR50nb-EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_7qR503b-EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_7qSg4Hb-EeyOAZ6Ig40iAg" type="3010" element="_7qIv4Hb-EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_7qSg4Xb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_7qSg4nb-EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_7qSg43b-EeyOAZ6Ig40iAg" type="3010" element="_7qJ-AHb-EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_7qSg5Hb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_7qSg5Xb-EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_7qR51Hb-EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_7qR51Xb-EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_7qR50Hb-EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7qR50Xb-EeyOAZ6Ig40iAg" x="490" y="254" width="213" height="103"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_IRWIAHb_EeyOAZ6Ig40iAg" type="3009" element="_IRQocnb_EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_IRWIA3b_EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_IRWIBHb_EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_IRWvEHb_EeyOAZ6Ig40iAg" type="3010" element="_IRQodXb_EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_IRWvEXb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_IRWvEnb_EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_IRWvE3b_EeyOAZ6Ig40iAg" type="3010" element="_IRRPgXb_EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_IRWvFHb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_IRWvFXb_EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_IRWIBXb_EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_IRWIBnb_EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_IRWIAXb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IRWIAnb_EeyOAZ6Ig40iAg" x="710" y="255" width="216" height="102"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_VellYHb_EeyOAZ6Ig40iAg" type="3009" element="_VeeQpnb_EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_VellY3b_EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_VellZHb_EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_VemMcHb_EeyOAZ6Ig40iAg" type="3010" element="_Vee3sXb_EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_VemMcXb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_VemMcnb_EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_VemMc3b_EeyOAZ6Ig40iAg" type="3010" element="_Vee3s3b_EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_VemMdHb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_VemMdXb_EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_VellZXb_EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_VellZnb_EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_VellYXb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VellYnb_EeyOAZ6Ig40iAg" x="5" y="21" width="188" height="103"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_dWhyAHb_EeyOAZ6Ig40iAg" type="3009" element="_dWZ2PHb_EeyOAZ6Ig40iAg">
+              <children xmi:type="notation:Node" xmi:id="_dWhyA3b_EeyOAZ6Ig40iAg" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_dWhyBHb_EeyOAZ6Ig40iAg" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_dWhyB3b_EeyOAZ6Ig40iAg" type="3010" element="_dWadQXb_EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_dWhyCHb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_dWhyCXb_EeyOAZ6Ig40iAg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_dWiZEHb_EeyOAZ6Ig40iAg" type="3010" element="_dWbrYHb_EeyOAZ6Ig40iAg">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_dWiZEXb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_dWiZEnb_EeyOAZ6Ig40iAg"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_dWhyBXb_EeyOAZ6Ig40iAg"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_dWhyBnb_EeyOAZ6Ig40iAg"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_dWhyAXb_EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dWhyAnb_EeyOAZ6Ig40iAg" x="5" y="139" width="188" height="103"/>
+            </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_QxQXwXb4EeyOAZ6Ig40iAg"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_QxQ-0Hb4EeyOAZ6Ig40iAg"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_QxF_sXb4EeyOAZ6Ig40iAg" fontName="Ubuntu" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QxF_snb4EeyOAZ6Ig40iAg" width="688" height="308"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QxF_snb4EeyOAZ6Ig40iAg" x="-30" width="918" height="458"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_Qs9GkXb4EeyOAZ6Ig40iAg"/>
       </data>
@@ -31,10 +218,307 @@
     <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_QtUS8Hb4EeyOAZ6Ig40iAg" name="req SysADLModel">
       <target xmi:type="sysadl:Model" href="smartcar.sysadl#/"/>
       <semanticElements xmi:type="sysadl:Model" href="smartcar.sysadl#/"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
       <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_QwgJ0Hb4EeyOAZ6Ig40iAg" showIcon="false" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']"/>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_pxj-EHb5EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;ControleDeCarro">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#0"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#0"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_pxsg8Hb5EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_pxuWIHb5EeyOAZ6Ig40iAg" name="id=0">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#0"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#0"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_px7KcHb5EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_px7xgHb5EeyOAZ6Ig40iAg" name="text=O sistema tem que monitorar o carro em movimento e acionar o freio quando a central eletronica do automovel identificar temperatura elevada no motor ou combustivel muito proximo ao insuficiente">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#0"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#0"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_pyS94Hb5EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_mOKocHb8EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;LigarMotor">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#1"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#1"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_mOLPgHb8EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_mOMdoHb8EeyOAZ6Ig40iAg" name="id=1">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#1"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#1"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_mONrwHb8EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_mOOS0Hb8EeyOAZ6Ig40iAg" name="text=O sistema deve ser capaz de ligar o motor quando o dispositivo de acionamento do motor for ligado">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#1"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#1"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_mOPg8Hb8EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_rYs-Mnb9EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;DesligarMotor">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#2"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#2"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_rYs-M3b9EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_rYtlQXb9EeyOAZ6Ig40iAg" name="id=2">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#2"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#2"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_rYuMUHb9EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_rYuMUXb9EeyOAZ6Ig40iAg" name="text=O motor deve ser desligado em situacoes criticas">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#2"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#2"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_rYuzYHb9EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_0KrxNHb9EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;IdentificarTemperatura">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#3"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#3"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_0KrxNXb9EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_0KsYQXb9EeyOAZ6Ig40iAg" name="id=3">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#3"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#3"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_0Ks_UHb9EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_0Ks_UXb9EeyOAZ6Ig40iAg" name="text=O sistema deve ser capaz de identificar a temperatura do motor">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#3"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#3"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_0Ks_Unb9EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_7UDnpHb9EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;IdentificarQuantidadeCombustivel">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#4"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#4"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_7UEOsHb9EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_7UE1wHb9EeyOAZ6Ig40iAg" name="id=4">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#4"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#4"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_7UFc0Hb9EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_7UFc0Xb9EeyOAZ6Ig40iAg" name="text=O sistema deve ser capaz de identificar a quantidade de combustivel">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#4"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#4"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_7UGD4Hb9EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_E5WG4nb-EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;AlertarMotorSuperaquecido">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#5"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#5"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_E5Wt8Hb-EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_E5XVAHb-EeyOAZ6Ig40iAg" name="id=5">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#5"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#5"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_E5X8EHb-EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_E5YjIHb-EeyOAZ6Ig40iAg" name="text=O sistema deve ser capaz de alertar o motorista quando o motor superaquecer">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#5"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#5"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_E5htEHb-EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_q1dRyHb-EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;AlertarCombustivelInsuficiente">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#6"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#6"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_q1d40Hb-EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_q1d40nb-EeyOAZ6Ig40iAg" name="id=6">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#6"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#6"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_q1ef4Hb-EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_q1ef4Xb-EeyOAZ6Ig40iAg" name="text=O sistema deve ser capaz de alertar o motorista quando a quantidade de combustivel tiver abaixo de 2 litros">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#6"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#6"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_q1ef4nb-EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_7qG6s3b-EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;DesligarMotorCombustivelInsuficiente">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#7"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#7"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_7qHhwHb-EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_7qIv4Hb-EeyOAZ6Ig40iAg" name="id=7">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#7"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#7"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_7qJW8Hb-EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_7qJ-AHb-EeyOAZ6Ig40iAg" name="text=O sistema devera desligar o motor apos 2 minutos do alerta de combustivel abaixo de 2 litros">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#7"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#7"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_7qJ-AXb-EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_IRQocnb_EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;DesligarMotorSuperaquecimento">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#8"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#8"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_IRQoc3b_EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_IRQodXb_EeyOAZ6Ig40iAg" name="id=8">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#8"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#8"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_IRRPgHb_EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_IRRPgXb_EeyOAZ6Ig40iAg" name="text=O sistema devera desligar o motor apos 2 minutos do alerta de superaquecimento do motor">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#8"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#8"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_IRRPgnb_EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_VeeQpnb_EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;PainelTemperatura">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#9"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#9"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_VeeQp3b_EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_Vee3sXb_EeyOAZ6Ig40iAg" name="id=9">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#9"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#9"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_Vee3snb_EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_Vee3s3b_EeyOAZ6Ig40iAg" name="text=O sistema deve exibir no painel o status da temperatura do motor">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#9"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#9"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_Vee3tHb_EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_dWZ2PHb_EeyOAZ6Ig40iAg" name="&lt;&lt;requirement>>&#xA;PainelCombustivel">
+        <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#10"/>
+        <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#10"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_dWZ2PXb_EeyOAZ6Ig40iAg" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_dWadQXb_EeyOAZ6Ig40iAg" name="id=10">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#10"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#10"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_dWbEUHb_EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Red.ID']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_dWbrYHb_EeyOAZ6Ig40iAg" name="text=O sistema deve exibir no painel a quantidade de combustivel">
+          <target xmi:type="sysadl:Requirement" href="smartcar.sysadl#10"/>
+          <semanticElements xmi:type="sysadl:Requirement" href="smartcar.sysadl#10"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_dWbrYXb_EeyOAZ6Ig40iAg" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
+        </ownedElements>
+      </ownedDiagramElements>
     </ownedDiagramElements>
     <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']"/>
     <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_QsRxIHb4EeyOAZ6Ig40iAg"/>
